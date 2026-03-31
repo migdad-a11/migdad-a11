@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm migdad-a11
+# 👋 Hi, I'm migdad
 
 💻 Cybersecurity enthusiast from Kerala  
 🎓 Currently learning Information Security  
